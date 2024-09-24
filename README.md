@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @prabhakar1234pr
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...web development
-- 💞️ I’m looking to collaborate on ...websites
+- 👋 Hi, I’m Prabhakar Elavala
+- 👀 I’m interested in ...coding and Data!
+- 🌱 I’m currently learning ...Artificial Intelligence
+- 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...prabhakarpr554@gmail.com
 
 <!---
