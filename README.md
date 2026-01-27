@@ -1,5 +1,41 @@
-# 💫 About Me:
-🤖 AI Engineer | Building Production-Ready AI Systems<br>Full-stack AI/ML engineer specializing in RAG pipelines, LLM orchestration, and production ML systems. Currently pursuing M.S. in Informatics at Northeastern University.<br><br>🚀 What I Build<br>I architect and deploy production AI systems that solve real-world problems:<br><br>RAG-Powered Chatbots - Built enterprise chatbot for IBM X Northeastern using watsonx + Milvus, serving 100+ students with sub-3s response times<br>AI-Powered Learning Platforms - GitGuide: Transform GitHub repos into personalized learning journeys with Azure OpenAI<br>MLOps Pipelines - Song popularity predictor processing 600K+ tracks with ZenML, MLflow, achieving R² ≈ 0.51<br>LLM Orchestration - Multi-agent systems with LangChain/LangGraph, tool calling, and semantic search<br>Job Search AI - MCP server for Claude Desktop with AI-powered resume tailoring across multiple platforms<br>💼 Experience<br>AI & Data Intern @ IBM X Northeastern (Sep 2025 - Dec 2025)<br>Architected RAG pipeline with IBM watsonx + Milvus, automating CPL screening with 50% workload reduction<br><br>Data Science Intern @ CommandL (Apr 2025 - Jul 2025)<br>Improved LLM performance monitoring and AI-generated instructional data quality<br><br>Chatbot Engineer @ CareEscapes AI (Jan 2025 - Apr 2025)<br>Led healthcare chatbot development using Azure OpenAI + LangGraph with scalable WebSocket infrastructure<br><br>
+# 💫 About Me
+
+🤖 **AI / Full-Stack Engineer — Production AI Systems**  
+I’m a full-stack AI engineer focused on building reliable, production-ready AI systems. My work centers on retrieval-augmented generation (RAG), LLM orchestration, and end-to-end ML systems that solve real problems. I recently completed my M.S. in Informatics at Northeastern University.
+
+---
+
+## 🚀 What I Build
+
+I design and ship AI systems that are grounded, scalable, and usable in the real world:
+
+- **RAG-Powered Chatbots**  
+  Built an enterprise chatbot for IBM × Northeastern using watsonx and Milvus, serving 100+ students with sub-3s response times.
+
+- **AI-Powered Learning Platforms**  
+  **GitGuide** — a full-stack AI application that transforms GitHub repositories into structured learning roadmaps with hands-on tasks and an in-browser IDE.
+
+- **ML & MLOps Pipelines**  
+  Developed a song popularity prediction pipeline over 600K+ tracks using ZenML and MLflow, achieving an R² of ~0.51.
+
+- **LLM Orchestration & Agents**  
+  Built multi-agent systems using LangChain and LangGraph, including tool calling, state management, and semantic search.
+
+- **Developer Productivity AI**  
+  Created an MCP server for Claude Desktop that enables AI-assisted resume tailoring across job platforms.
+
+---
+
+## 💼 Experience
+
+**AI & Data Intern — IBM × Northeastern** *(Sep 2025 – Dec 2025)*  
+Designed and deployed a RAG pipeline using IBM watsonx and Milvus, automating CPL screening and reducing manual workload by ~50%.
+
+**Data Science Intern — CommandL** *(Apr 2025 – Jul 2025)*  
+Improved LLM performance monitoring and enhanced the quality of AI-generated instructional datasets.
+
+**Chatbot Engineer — CareEscapes AI** *(Jan 2025 – Apr 2025)*  
+Led development of a production healthcare chatbot using Azure OpenAI and LangGraph, with scalable WebSocket-based infrastructure.
 
 
 ## 🌐 Socials:
