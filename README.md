@@ -4,7 +4,6 @@
 I’m a full-stack AI engineer focused on building reliable, production-ready AI systems. My work centers on retrieval-augmented generation (RAG), LLM orchestration, and end-to-end ML systems that solve real problems. I recently completed my M.S. in Informatics at Northeastern University.
 
 ---
-
 ## 🚀 What I Build
 
 I design and ship AI systems that are grounded, scalable, and usable in the real world:
