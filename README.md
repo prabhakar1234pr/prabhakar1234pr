@@ -30,10 +30,10 @@ I design and ship AI systems that are grounded, scalable, and usable in the real
 **AI & Data Intern — IBM × Northeastern** *(Sep 2025 – Dec 2025)*  
 Designed and deployed a RAG pipeline using IBM watsonx and Milvus, automating CPL screening and reducing manual workload by ~50%.
 
-**Data Science Intern — CommandL** *(Apr 2025 – Jul 2025)*  
+**Data Science Intern — CommandL** *(Jan 2025 – Jul 2025)*  
 Improved LLM performance monitoring and enhanced the quality of AI-generated instructional datasets.
 
-**Chatbot Engineer — CareEscapes AI** *(Jan 2025 – Apr 2025)*  
+**Chatbot Engineer — CareEscapes AI** *(Jan 2024 – Dec 2024)*  
 Led development of a production healthcare chatbot using Azure OpenAI and LangGraph, with scalable WebSocket-based infrastructure.
 
 
