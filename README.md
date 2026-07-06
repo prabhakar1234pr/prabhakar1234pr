@@ -6,7 +6,7 @@ I’m a full-stack AI engineer focused on building reliable, production-ready AI
 ---
 ## 🚀 What I Built
 
-I design and ship AI systems that are grounded, scalable, and usable in the real world:
+I design and ship AI systems that are grounded, scalable, reliable and usable in the real world:
 
 - **RAG-Powered Chatbots**  
   Built an enterprise chatbot for IBM × Northeastern using watsonx and Milvus, serving 100+ students with sub-3s response times.
